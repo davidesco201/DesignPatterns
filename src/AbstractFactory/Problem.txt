@@ -1,0 +1,7 @@
+La tienda de Instrumentos "MyHero" del barrio San Juan, ha encontrado grandes beneficios en vender todo tipo de instrumentos a precios más económicos y con un muy buen servicio al cliente.
+Tulia, la dueña de la tienda, tiene contacto directo con la empresa proveedora Gibson, la cual desde que inicio le ha brindado el catálogo de todos sus instrumentos.
+Sin embargo, últimamente algunos clientes han buscado bajos y guitarras eléctricas de referencia Fender.
+Doña Tulia tristemente les dice que no posee Instrumentos de esas referencias.
+Hace 1 semana un proveedor de Fender llama a doña Tulia para ofrecerle una colaboración para proveerle sus bajos y guitarras.
+Doña Tulía está muy feliz porque sus referencias y productos han aumentado.
+Sin embargo, a la hora de hacer el pedido tiene el problema de que siempre pedía Instrumentos Gibson y ahora con el nuevo proveedor debe poder incluir esos instrumentos dentro de la lista de inventario (y posiblemente se agreguen más).

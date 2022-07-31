@@ -1,0 +1,6 @@
+Fernando es un secretario de un inversionista muy importante.
+Este tiene varias cuentas bancarias, sin embargo, decide otorgarle a Fernando la administración de dos de sus muchas cuentas bancarias.
+Las cuentas de Bancolombia y Scotiabank se diferencian en que mientras la de Scotiabank no tiene cuota de manejo, la de Bancolombia cobra el 5% por cada monto retirado.
+Además, la de Scotiabank te suma 1% por cada deposito en tu cuenta.
+El jefe de Fernando por seguridad decide pedirle que le entregue un Log de cada actividad bancaria (ver saldo, retirar monto, depositar monto).
+Fernando necesita tener la capacidad de implementar un Log que sea capaz de registrar los movimientos de cualquier tipo de cuenta.
